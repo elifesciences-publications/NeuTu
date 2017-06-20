@@ -1,6 +1,9 @@
 NeuTu (a.k.a. neuTube)
 =====
 
+### This code is associated with the paper "https://elifesciences.org/articles/24394". eLife, 2017. 10.7554/eLife.24394
+
+=====
 <!--[![Build Status](https://drone.io/github.com/janelia-flyem/NeuTu/status.png)](https://drone.io/github.com/janelia-flyem/NeuTu/latest)-->
 
 Software package for neuron reconstruction and visualization
